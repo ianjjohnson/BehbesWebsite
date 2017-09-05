@@ -1930,7 +1930,7 @@
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #FFB6C1;
 		}
 
 /* Image */
@@ -1995,9 +1995,6 @@
 		padding-left: 1em;
 	}
 
-		ul li {
-			padding-left: 0.5em;
-		}
 
 		ul.alt {
 			list-style: none;
@@ -2527,19 +2524,19 @@
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: rgba(0, 0, 0, 0.0);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: rgba(0, 0, 0, 0.075);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0.3);
+			background-color: rgba(0, 0, 0, 0.225);
 		}
 
 		.spotlight:nth-child(5) {
@@ -2641,8 +2638,8 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c7ebe8;
+			background-color: #89cff0;
+			color: #000000;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2674,7 +2671,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: white;
 			}
 
 			.wrapper.style1 label {
@@ -2795,11 +2792,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #ffbdc7;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #89cff0;
 			color: #d3d4e4;
 		}
 
@@ -2832,7 +2829,7 @@
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: white;
 			}
 
 			.wrapper.style3 label {
@@ -3254,7 +3251,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #ffbdc7;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3901,11 +3898,11 @@
 		text-align:left;
 		padding-left: 16px;
 		padding-bottom: 16px;
-		background: #505393;
+		background: #89cff0;
 	}
 
 	.testimonial-border {
-		background: #505393;
+		background: #89cff0;
 	}
 
 	.testimonial-card {
@@ -3930,7 +3927,7 @@
 
 	.testimonial-quote-icon {
 		background: #f5f5f5 !important;
-		color: #505393 !important;
+		color: #89cff0 !important;
 		position: absolute;
 	    top: 186px;
 	    right: 20px;
