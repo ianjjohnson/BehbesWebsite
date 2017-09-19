@@ -2522,15 +2522,15 @@
 			-ms-flex-direction: row-reverse;
 			flex-direction: row-reverse;
 		}
-
+/*
 		.spotlight:nth-child(1) {
 			background-color: rgba(0, 0, 0, 0.0);
 		}
-
+*/
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: #89cff0;
 		}
-
+/*
 		.spotlight:nth-child(3) {
 			background-color: rgba(0, 0, 0, 0.15);
 		}
@@ -2561,7 +2561,7 @@
 
 		.spotlight:nth-child(10) {
 			background-color: rgba(0, 0, 0, 0.75);
-		}
+		}*/
 
 		@media screen and (max-width: 1280px) {
 
@@ -2792,7 +2792,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #ffbdc7;
+			background-color: #e5aab3;
 		}
 
 		.wrapper.style3 {
@@ -3251,7 +3251,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #ffbdc7;
+		background: #e5aab3;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
